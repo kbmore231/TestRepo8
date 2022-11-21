@@ -1,4 +1,4 @@
 master line1
 Bug1 line2
 master line3
-line4
+Bug4 line4
